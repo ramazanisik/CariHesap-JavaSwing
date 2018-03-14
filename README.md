@@ -1,13 +1,13 @@
 #Cari Hesap-Java Swing
 
-  1-Login Sayfası
-  2-Ana Sayfa 
+    1-Login Sayfası
+    2-Ana Sayfa 
         Şeklinde iki kullanıcı sayfası bulunmaktadır.
-  Sistemde yetkilendirme yapılmıştır
-  Kullanıcılar sahip olduğu rollere uygun olarak erişim yetkileri bulunmaktadır.
-  Tüm veriler veritabanında tutulmaktadır.
-  Sistemde yapılan işlemler üzerinde raporlama yapılmaktadır.
-  Tüm veri giriş-çıkış işlemlerinde validasyon işlemi yapılmaktadır.
+    Sistemde yetkilendirme yapılmıştır
+    Kullanıcılar sahip olduğu rollere uygun olarak erişim yetkileri bulunmaktadır.
+    Tüm veriler veritabanında tutulmaktadır.
+    Sistemde yapılan işlemler üzerinde raporlama yapılmaktadır.
+    Tüm veri giriş-çıkış işlemlerinde validasyon işlemi yapılmaktadır.
 
 
 # Project Display Image
