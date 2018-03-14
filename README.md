@@ -1,7 +1,7 @@
 #Cari Hesap-Java Swing
 
-    1-Login Sayfası
-    2-Ana Sayfa 
+  1-Login Sayfası
+  2-Ana Sayfa 
         Şeklinde iki kullanıcı sayfası bulunmaktadır.
   Sistemde yetkilendirme yapılmıştır
   Kullanıcılar sahip olduğu rollere uygun olarak erişim yetkileri bulunmaktadır.
